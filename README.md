@@ -1,4 +1,4 @@
-**🏨 OYO Hotel Revenue & Occupancy Analysis Dashboard**
+**🏨 OYO Hotel Revenue & Occupancy Analysis**
 
 **📝 Executive Summary**
 This project analyzes the revenue and operational performance of OYO Hotels. Using historical booking data, I created a dashboard to monitor key hospitality metrics such as RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), and Occupancy %.
