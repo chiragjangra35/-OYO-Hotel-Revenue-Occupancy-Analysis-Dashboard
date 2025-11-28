@@ -1,12 +1,11 @@
 **🏨 OYO Hotel Revenue & Occupancy Analysis Dashboard**
 
-<img width="1320" height="746" alt="image" src="https://github.com/user-attachments/assets/75f70be5-d107-43fc-a8f4-c1095b3819c1" />
-
-
 **📝 Executive Summary**
 This project analyzes the revenue and operational performance of OYO Hotels. Using historical booking data, I created a dashboard to monitor key hospitality metrics such as RevPAR (Revenue Per Available Room), ADR (Average Daily Rate), and Occupancy %.
 
 The analysis provides actionable insights into pricing strategies, revealing a significant gap between weekday and weekend revenues and highlighting high cancellation rates (25%) as a major area for improvement.
+
+<img width="1320" height="746" alt="image" src="https://github.com/user-attachments/assets/75f70be5-d107-43fc-a8f4-c1095b3819c1" />
 
 **💼 Business Problem**
 The hospitality industry relies heavily on Revenue Management—selling the right room to the right customer at the right price. The stakeholders needed to answer:
