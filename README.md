@@ -59,3 +59,6 @@ To ensure business alignment, the following KPIs were calculated:
 **Focus on Quality in Bangalore:** Initiate a quality audit for Bangalore properties to improve the 3.4 rating, as reputation directly correlates with future RevPAR.
 
 **Platform Optimization:** Analyze which booking platforms (Filter by Platform) are driving the high cancellation rates and adjust policies for those specific channels.
+
+<img width="1454" height="706" alt="image" src="https://github.com/user-attachments/assets/955bc148-c0a8-457c-902d-be138427cd20" />
+
